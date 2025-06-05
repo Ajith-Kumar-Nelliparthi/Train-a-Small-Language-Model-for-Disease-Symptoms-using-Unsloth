@@ -1,5 +1,5 @@
 # Train a Small Language Model for Disease Symptoms using Unsloth
-
+![alt text](image.png)
 This project demonstrates how to fine-tune the [microsoft/phi-2](https://huggingface.co/microsoft/phi-2) language model using the [Unsloth](https://github.com/unslothai/unsloth) library for the task of mapping disease names and symptoms to diagnosis codes and suggested treatments.
 
 ## Features
